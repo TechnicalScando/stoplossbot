@@ -1,0 +1,23 @@
+{
+  "name": "stoplossbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stoplossbot.js",
+  "dependencies": {
+    "ccxt": "^1.49.66"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TechnicalScando/stoplossbot.git"
+  },
+  "author": "Gary R King",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TechnicalScando/stoplossbot/issues"
+  },
+  "homepage": "https://github.com/TechnicalScando/stoplossbot#readme"
+}
